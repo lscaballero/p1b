@@ -1,0 +1,5 @@
+name: Ejemplo Módulo
+type: module
+core: 8.x
+description: "módulo de ejemplo para blog"
+package: Custom
